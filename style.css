@@ -1,0 +1,10 @@
+.html,body,span,p,form,img,a,ul,ol,li,table,tr,td,div{
+    margin: 0px;
+    padding: 0;
+    border: none;
+    content: none;     
+    outline:none;
+    list-style: none;
+     
+    
+}
